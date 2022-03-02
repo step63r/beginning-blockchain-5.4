@@ -1,0 +1,8 @@
+{
+  "infura_network": "[infura network name]",
+  "infura_endpoint": "[infura endpoint]",
+  "sender_id": "[account for send eth]",
+  "sender_secret": "[secret of sender]",
+  "recipient_id": "[account for receive eth]",
+  "recipient_secret": "[secret of recipient]"
+}
